@@ -1,1 +1,1 @@
-url.txt
+https://raw.githubusercontent.com/mdmomin365366-gif/bela/refs/heads/main/index.txt
